@@ -1,4 +1,5 @@
 d = "acquaintance"
-x = len()
-for n in x:
-    print(n)
+x = len(d)
+for n in len(d):
+    print(d)
+#print(x)
